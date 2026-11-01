@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Card Club Arcade</string>
+    <string name="title_activity_main">Card Club Arcade</string>
+    <string name="package_name">com.cardclubarcade.app</string>
+    <string name="custom_url_scheme">com.cardclubarcade.app</string>
+</resources>

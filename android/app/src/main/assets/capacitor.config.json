@@ -1,0 +1,12 @@
+{
+	"appId": "com.cardclubarcade.app",
+	"appName": "Card Club Arcade",
+	"webDir": "dist",
+	"backgroundColor": "#f4e4bf",
+	"server": {
+		"androidScheme": "https"
+	},
+	"android": {
+		"allowMixedContent": false
+	}
+}
